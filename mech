@@ -38,6 +38,7 @@ http://destiny4k.com:2086/live/darkside/t2z7marsRY/87398.ts
 https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.imgur.com/EYL6HM2.jpg" ,SCTV
+https://noruwet.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
 https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606f050f137c26cc67bb
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
