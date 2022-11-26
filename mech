@@ -5,10 +5,6 @@
 
 ========WORLD CUP=========
 
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png",CH1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://a72fdf977a1b705ebbc9d85415da359f5d6d5a7a.s3.eu-central-1.amazonaws.com/3ff11b5b32f40a99df13468b46ea14893afed6af/live.m3u8|Referer=https://bfc3a5e84d17fc40a39e3103b9c73dd4a0ee062a.space/
-
 #EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png",FS 1 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium39/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
