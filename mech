@@ -44,11 +44,13 @@ https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="LOKAL" tvg-id="Trans7" tvg-name="Trans7" tvg-logo="https://i.imgur.com/Yy8ikkf.jpg" ,Trans 7
+https://noruwet.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/734-trans7
 https://live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="LOKAL" tvg-id="TransTV" tvg-name="TransTV" tvg-logo="https://i.imgur.com/oDgMlnR.jpg" ,Trans TV
+https://noruwet.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv
 https://live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 ##KODIPROP:inputstream=inputstream.adaptive
@@ -57,6 +59,8 @@ https://live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTVLCOPT:network-caching=2000
 #EXTINF:-1 group-title="LOKAL" tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-language="Indonesia" tvg-logo="https://img.inews.co.id/files/img/streaming/logorcti_2018.png" ,RCTI
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 https://live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -64,6 +68,8 @@ https://live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="LOKAL" tvg-id="MNCTV.MACAN" tvg-name="MNC TV" tvg-logo="https://static.mncnow.id/images/channel/802f8e1d/dc46_r32.jpg" ,MNC TV
 #EXTVLCOPT:network-caching=10000
 #EXTINF:-1 group-title="LOKAL" tvg-id="MNCTV.MACAN" tvg-name="MNC TV" tvg-logo="https://img.inews.co.id/files/img/streaming/mnctv_new.png" ,MNC TV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
 https://live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -71,18 +77,23 @@ https://live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 ##EXTINF:-1 group-title="LOKAL" tvg-id="GTV" tvg-name="GTV" tvg-logo="https://static.mncnow.id/images/channel/d2469e2b/e230_r32.jpg" ,GTV
 #EXTVLCOPT:network-caching=10000
 #EXTINF:-1 group-title="LOKAL" tvg-id="GTV.MACAN" tvg-name="GTV" tvg-language="Indonesia" tvg-logo="https://img.inews.co.id/files/img/streaming/gtv_new.png" ,GTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 https://live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTVLCOPT:network-caching=10000
 #EXTINF:-1 group-title="LOKAL"  tvg-id="iNewsTV.MACAN" tvg-name="iNews" tvg-logo="https://img.inews.co.id/files/img/streaming/inewstv_new.png" ,INEWS
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
 https://live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 group-title="LOKAL" tvg-id="NetTV" tvg-name="NetTV" tvg-logo="https://s.id/netvp" ,Net.
 #EXTVLCOPT:network-caching=2000
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 https://live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="antv" tvg-name="ANTV" tvg-logo="https://s.id/Um6b" ,ANTV
