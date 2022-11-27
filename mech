@@ -4331,17 +4331,17 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 ##[#===SPORTS1==]
 		
 ##[#===SPORT TV & BT SPORT===]
-#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 ??
+#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/87398.ts
-#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV2.HD.pt" tvg-name="SPORT TV2 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 2 ??
+#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV2.HD.pt" tvg-name="SPORT TV2 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 2
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/87399.ts
-#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV3.HD.pt" tvg-name="SPORT TV3 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 3 ??
+#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV3.HD.pt" tvg-name="SPORT TV3 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 3
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/87400.ts
-#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV4.HD.pt" tvg-name="SPORT TV4 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 4 ??
+#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV4.HD.pt" tvg-name="SPORT TV4 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 4
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/87401.ts
-#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV5.HD.pt" tvg-name="SPORT TV5 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 5 ??
+#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV5.HD.pt" tvg-name="SPORT TV5 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 5
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/87402.ts
-#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV6.HD.pt" tvg-name="SPORT TV6 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 6 ??
+#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV6.HD.pt" tvg-name="SPORT TV6 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 6
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/87403.ts
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/249069
 #EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV+" tvg-logo="https://i.imgur.com/wXkhFJf.png" group-title="SOCCER SPORTS",PT: SPORT TV+
@@ -4710,18 +4710,20 @@ http://rtmp.one.by:1300
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 group-title="MALAYSIA" ch-number="RTMK01" tvg-id="TV1.my" tvg-chno="RTMK01" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV1.jpg",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist.m3u8?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 group-title="MALAYSIA" ch-number="RTMK02" tvg-id="TV2.my" tvg-chno="RTMK02" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV2.jpg",TV2
 #EXTGRP:MALAYSIA
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist.m3u8?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
 #EXTINF:-1 group-title="MALAYSIA" ch-number="103" tvg-id="TV3.my" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
-http://51.79.82.208:16003
+#http://51.79.82.208:16003
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/40761.m3u8
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 http://iptv12k.com:35461/8032022060101/452381/740
