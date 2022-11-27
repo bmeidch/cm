@@ -3,10 +3,10 @@
 ##EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="3600"
 
 #EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium1/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium2/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -146,9 +146,6 @@ https://webdi.openhd.lol/lb/premium47/index.m3u8?|referer=https://widevine.licen
 #EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium48/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webdi.openhd.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium50/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -221,7 +218,7 @@ https://webdi.openhd.lol/lb/premium72/index.m3u8?|referer=https://widevine.licen
 #EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium73/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium7
+#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",SPORT TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium74/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium7
@@ -3037,6 +3034,11 @@ https://webdi.openhd.lol/lb/premium1010/index.m3u8?|referer=https://widevine.lic
 #EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png",FS 1 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium39/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://imgur.com/U47Qq2X.jpg",SPORT TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://webdi.openhd.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 group-title="WORLD CUP" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/87398.ts
 
 #EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png",bt sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3058,8 +3060,7 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/27737.m3u8
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/14413.m3u8
 #EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="beIN Sports 3 FHD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png" group-title="WORLD CUP",beIN Sports 3 FHD FR
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/27736.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 ??
-http://destiny4k.com:2086/live/darkside/t2z7marsRY/87398.ts
+
 ####[#===INDONESIA===]
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/mIOpbah.jpg" ,Indosiar
