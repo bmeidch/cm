@@ -89,34 +89,34 @@ https://webdi.openhd.lol/lb/premium28/index.m3u8?|referer=https://widevine.licen
 #EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium29/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium3
+#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium30/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium3
+#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium31/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium3
+#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium32/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium3
+#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium33/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium3
+#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium34/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium3
+#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium35/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium3
+#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium36/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium3
+#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium37/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium3
+#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium38/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium3
+#EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium39/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #EXTINF:-1 group-title="REDLINECLIENT" tvg-logo="",premium4
@@ -3058,7 +3058,7 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/27737.m3u8
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/14413.m3u8
 #EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="beIN Sports 3 FHD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png" group-title="WORLD CUP",beIN Sports 3 FHD FR
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/27736.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 ᴴᴰ
+#EXTINF:-1 group-title="WORLD CUP" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 ??
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/87398.ts
 ####[#===INDONESIA===]
 
@@ -4077,7 +4077,7 @@ https://vips-livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #https://api.vthanhtivii.xyz/v1/getlink/vieon/htv-key
 #http://nguyentienviet.cameraddns.net:33333/rtp/232.84.1.25:8124
 
-#EXTINF:0 group-title="SPORTS" tvg-id="htvthethaohd" tvg-logo="http://cdn-thumbs.imagevenue.com/cb/52/c2/ME14JVCB_t.png", HTV THỂ THAO
+#EXTINF:0 group-title="SPORTS" tvg-id="htvthethaohd" tvg-logo="http://cdn-thumbs.imagevenue.com/cb/52/c2/ME14JVCB_t.png", HTV TH? THAO
 #https://api.vthanhtivii.xyz/v1/getlink/vieon/htv-the-thao
 http://nguyentienviet.cameraddns.net:33333/rtp/232.84.1.24:8118
 
@@ -4328,17 +4328,17 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 ##[#===SPORTS1==]
 		
 ##[#===SPORT TV & BT SPORT===]
-#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 ᴴᴰ
+#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 ??
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/87398.ts
-#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV2.HD.pt" tvg-name="SPORT TV2 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 2 ᴴᴰ
+#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV2.HD.pt" tvg-name="SPORT TV2 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 2 ??
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/87399.ts
-#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV3.HD.pt" tvg-name="SPORT TV3 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 3 ᴴᴰ
+#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV3.HD.pt" tvg-name="SPORT TV3 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 3 ??
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/87400.ts
-#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV4.HD.pt" tvg-name="SPORT TV4 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 4 ᴴᴰ
+#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV4.HD.pt" tvg-name="SPORT TV4 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 4 ??
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/87401.ts
-#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV5.HD.pt" tvg-name="SPORT TV5 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 5 ᴴᴰ
+#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV5.HD.pt" tvg-name="SPORT TV5 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 5 ??
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/87402.ts
-#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV6.HD.pt" tvg-name="SPORT TV6 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 6 ᴴᴰ
+#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="SPORT.TV6.HD.pt" tvg-name="SPORT TV6 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 6 ??
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/87403.ts
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/249069
 #EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV+" tvg-logo="https://i.imgur.com/wXkhFJf.png" group-title="SOCCER SPORTS",PT: SPORT TV+
@@ -4359,42 +4359,42 @@ http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/35026
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SOCCER SPORTS",SKY SPORT PREMIER LEAGUE
 
 #===SPORT TV & BT SPORT===
-#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="TNTSports1Brasil.us" tvg-name="TNT Sports 1 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/RLgLDeQ.png" ,⚽️TNT Sports 1 Brasil
+#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="TNTSports1Brasil.us" tvg-name="TNT Sports 1 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/RLgLDeQ.png" ,??TNT Sports 1 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="TNTSports2Brasil.us" tvg-name="TNT SPORTS Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/RLgLDeQ.png" ,⚽️TNT SPORTS Brasil
+#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="TNTSports2Brasil.us" tvg-name="TNT SPORTS Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/RLgLDeQ.png" ,??TNT SPORTS Brasil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="TNTSports3Brasil.us" tvg-name="TNT Sports 3 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/RSnJBTM.png" ,⚽️TNT Sports 3 Brasil
+#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="TNTSports3Brasil.us" tvg-name="TNT Sports 3 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/RSnJBTM.png" ,??TNT Sports 3 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="TNTSports4Brasil.us" tvg-name="TNT Sports 4 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/RSnJBTM.png" ,⚽️TNT Sports 4 Brasil
+#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="TNTSports4Brasil.us" tvg-name="TNT Sports 4 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/RSnJBTM.png" ,??TNT Sports 4 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="TNTSports5Brasil.us" tvg-name="TNT Sports 5 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/812dCDQ.png" ,⚽️TNT Sports 5 Brasil
+#EXTINF:-1 group-title="SOCCER SPORTS" tvg-id="TNTSports5Brasil.us" tvg-name="TNT Sports 5 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/812dCDQ.png" ,??TNT Sports 5 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
 #===SPORTS1===
 ##[#===RU SPORTS===]
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russia" tvg-country="RU" tvg-logo="https://imgur.com/EPSdpZ9.png" ,Матч!
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russia" tvg-country="RU" tvg-logo="https://imgur.com/EPSdpZ9.png" ,????!
 ##EXTGRP:RU SPORTS
 #http://s4.idata.uz/matchHD/video.m3u8
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russia" tvg-country="RU" tvg-logo="https://imgur.com/EPSdpZ9.png" ,Матч! Планета
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russia" tvg-country="RU" tvg-logo="https://imgur.com/EPSdpZ9.png" ,????! ???????
 ##EXTGRP:RU SPORTS
 #http://pl.kineskop.tv/site2/108_~STA160190_e5298787b5dbde30_1626063471_300.m3u8
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russia" tvg-country="RU" tvg-logo="https://imgur.com/vAvPACj.png" ,Матч! Арена
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russia" tvg-country="RU" tvg-logo="https://imgur.com/vAvPACj.png" ,????! ?????
 ##EXTGRP:RU SPORTS
 #http://s4.idata.uz/arena/video.m3u8
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russia" tvg-country="RU" tvg-logo="https://imgur.com/jXPrSB6.png" ,Матч! Футбол 1
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russia" tvg-country="RU" tvg-logo="https://imgur.com/jXPrSB6.png" ,????! ?????? 1
 ##EXTGRP:RU SPORTS
 #https://95-213-172-221.livesports24.online/ntvmatchfoot1.m3u8
 #https://185-82-203-145.livesports24.online/ntvmatchfoot1.m3u8
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russia" tvg-country="RU" tvg-logo="https://imgur.com/u6GbC7S.png" ,Матч! Футбол 2
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russia" tvg-country="RU" tvg-logo="https://imgur.com/u6GbC7S.png" ,????! ?????? 2
 ##EXTGRP:RU SPORTS
 #https://95-213-224-179.livesports24.online/fooootball2.m3u8
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russia" tvg-country="RU" tvg-logo="https://imgur.com/CNLpVqC.png" ,Матч! Футбол 3
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russia" tvg-country="RU" tvg-logo="https://imgur.com/CNLpVqC.png" ,????! ?????? 3
 ##EXTGRP:RU SPORTS
 #http://srv1.roshen.live:80/nGwPoEDTZG/mpegts?token=wIdcWVrjWlw4Qql6
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russia" tvg-country="RU" tvg-logo="https://imgur.com/EPSdpZ9.png" ,МАТЧ! Игра HD
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russia" tvg-country="RU" tvg-logo="https://imgur.com/EPSdpZ9.png" ,????! ???? HD
 ##EXTGRP:RU SPORTS
 #http://s4.idata.uz/igra/video.m3u8
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russia" tvg-country="RU" tvg-logo="https://imgur.com/jXPrSB6.png" ,Футбол 1 HD
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russia" tvg-country="RU" tvg-logo="https://imgur.com/jXPrSB6.png" ,?????? 1 HD
 ##EXTGRP:RU SPORTS
 #https://95-213-224-179.livesports24.online/uafootballua1.m3u8
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/t41mNCPF/SETANTA-SPORTS.png" ,SETANTA SPORTS 1
@@ -4789,7 +4789,7 @@ https://agsplayback01.astro.com.my/CH2/master_GOSHOP2.m3u8
 
 #====================================================MALAYSIA====================================================
 ##[#===KOREA===]
-###EXTINF:-1 tvg-id="아리랑TV.kr" tvg-name="아리랑TV" tvg-language="ko" tvg-logo="http://www.isv.net/logos/arirangtv.png" ,Arirang
+###EXTINF:-1 tvg-id="???TV.kr" tvg-name="???TV" tvg-language="ko" tvg-logo="http://www.isv.net/logos/arirangtv.png" ,Arirang
 ###EXTGRP:ASIA
 ##https://www.dropbox.com/s/zct1z6kvq7e5nev/Arirangaio.m3u8?dl=1
 ###EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arirang_kr.png" ,Arirang 1
@@ -4837,7 +4837,7 @@ https://agsplayback01.astro.com.my/CH2/master_GOSHOP2.m3u8
 ###EXTINF:-1 tvg-logo="https://nhkworldpremium.com/img/provider/logo.png" ,NHK World Premium
 ###EXTGRP:ASIA
 ##https://live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
-###EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg" ,nhk华语
+###EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg" ,nhk??
 ###EXTGRP:ASIA
 ##https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 ###EXTINF:-1 tvg-logo="https://i.imgur.com/wSmDpsu.png" ,Nippon TV
@@ -5482,7 +5482,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
 #EXTINF:-1 tvg-id="" group-title="FIGHT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png", Hard Knock Fighting
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
 https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
-#EXTINF:-1 tvg-id="" group-title="FIGHT SPORTS" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/UFC.PNG", Фан Спорт
+#EXTINF:-1 tvg-id="" group-title="FIGHT SPORTS" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/UFC.PNG", ??? ?????
 https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="" group-title="FIGHT SPORTS" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/UFC.PNG", In sport
 http://185.5.206.134:8081/insport/insport/chunks.m3u8
@@ -5504,7 +5504,7 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 http://a3569457204-s22674.cdn.ngenix.net/hls/UFC/index_0.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DRDn679/kok-BEARTV.png" group-title="FIGHT SPORTS", KOK UFC
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AZ" tvg-logo="https://imgur.com/gfcJ1ne.png" group-title="FIGHT SPORTS",Матч! Боец
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AZ" tvg-logo="https://imgur.com/gfcJ1ne.png" group-title="FIGHT SPORTS",????! ????
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Lx0hMbP/Adrenalina-BEARTV.png" group-title="FIGHT SPORTS", Adrenalina Sports Network - UFC
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726
