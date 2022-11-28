@@ -3,11 +3,10 @@
 ##EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="3600"
 
 ========WORLD CUP=========
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-##EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="WORLD CUP" ch-number="RTMK02" tvg-id="TV2.my" tvg-chno="RTMK02" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV2.jpg",TV2
-#EXTGRP:WORLD CUP
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3 
+https://aqfadtv.xyz/live/tv2/index.mpd
 
 #EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://www.seekpng.com/png/full/319-3195444_fs1-fox-sports-2.png",FS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
