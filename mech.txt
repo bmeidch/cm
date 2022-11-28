@@ -10,10 +10,25 @@ https://webdi.openhd.lol/lb/premium39/index.m3u8?|referer=https://widevine.licen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #EXTINF:-1 group-title="WORLD CUP" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 HD
-http://destiny4k.com:2086/live/darkside/t2z7marsRY/87398.ts
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/68989
+#EXTINF:-1 group-title="WORLD CUP" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 HD J
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159582
 #EXTINF:-1 group-title="WORLD CUP" tvg-logo="",TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/10921
 https://webdi.openhd.lol/lb/premium111/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_1_HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="WORLD CUP",FR_BeIN_SPORTS_1_FHD
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/73
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_1_HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="WORLD CUP",FR_BeIN_SPORTS_6_HD
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/3682
+#EXTINF:-1 tvg-ID="" tvg-name="UK_FOX_SPORTS" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="WORLD CUP",FOX_SPORTS_1
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/1529
+#EXTINF:-1 tvg-ID="" tvg-name="UK_ITV_1" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="WORLD CUP",UK_ITV_1
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/256
+#EXTINF:-1 tvg-ID="" tvg-name="UK_BBC_1_HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="WORLD CUP",UK_BBC_1_HD
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/260
+#EXTINF:-1 tvg-ID="" tvg-name="USA: Fox Soccer Plus" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="WORLD CUP",USA:FoxSoccer Plus
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/50068
 #EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png",MBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
