@@ -5,58 +5,67 @@
 ========WORLD CUP=========
 #EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://www.seekpng.com/png/full/319-3195444_fs1-fox-sports-2.png",FS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://webudi.openhd.lol/lb/premium39/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 https://webdi.openhd.lol/lb/premium39/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://imgur.com/U47Qq2X.jpg",SPORT TV 1
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="WORLD CUP" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 HD
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/68989
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 ᴴᴰ B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://cdn.spmr.tv:8080/d6pvl0/video.m3u8?token=WYPW6GSH4H
+
 #EXTINF:-1 group-title="WORLD CUP" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 HD J
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/159582
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",TSN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webdi.openhd.lol/lb/premium111/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_1_HD" tvg-logo="" group-title="WORLD CUP",FR_BeIN_SPORTS_1_FHD
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/73
-#EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_1_HD" tvg-logo="" group-title="WORLD CUP",FR_BeIN_SPORTS_6_HD
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/3682
-#EXTINF:-1 tvg-ID="" tvg-name="UK_ITV_1" tvg-logo="" group-title="WORLD CUP",UK_ITV_1
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/256
 
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png",MBC
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://i.imgur.com/v48ueao.png" ,TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+https://webudi.openhd.lol/lb/premium111/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",ASTRO LIVE
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://s.id/1pI5K",MBC
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-id="ASSP1.my" tvg-name="Astro SuperSport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Astro_2016_logo.svg/320px-Astro_2016_logo.svg.png", Astro WORLD CUP LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webdi.openhd.lol/lb/premium294/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",ASTRO REPLAY
+https://webdi.openhd.lol/ddyx2/premium294/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-id="ASSP1.my" tvg-name="Astro SuperSport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Astro_2016_logo.svg/320px-Astro_2016_logo.svg.png", Astro WORLD CUP REPLAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webdi.openhd.lol/lb/premium295/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",BEIN SPORTS MAX 1 AR
+https://webdi.openhd.lol/ddyx2/premium295/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic869.jpg" group-title="WORLD CUP",BeinSports Max 3 EN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webdi.openhd.lol/lb/premium296/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",BEIN SPORTS MAX 2 AR
+https://webudi.openhd.lol/lb/premium298/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic867.jpg" group-title="WORLD CUP",BeinSports Max 1 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webdi.openhd.lol/lb/premium297/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",BEIN SPORTS MAX 3 EN
+https://webudi.openhd.lol/lb/premium296/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic868.jpg" group-title="WORLD CUP",BeinSports Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webdi.openhd.lol/lb/premium298/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",BEIN SPORTS MAX 4 EN
+https://webudi.openhd.lol/lb/premium297/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic541.jpg" group-title="WORLD CUP",BeinSports Max 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webdi.openhd.lol/lb/premium299/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="beIN Sports 1 HD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png" group-title="WORLD CUP",beIN Sports 1 HD FR
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/14415.m3u8
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="beIN Sports 1 FHD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png" group-title="WORLD CUP",beIN Sports 1 FHD FR
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/27738.m3u8
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="beIN Sports 2 HD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png" group-title="WORLD CUP",beIN Sports 2 HD FR
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/14414.m3u8
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="beIN Sports 2 FHD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png" group-title="WORLD CUP",beIN Sports 2 FHD FR
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/27737.m3u8
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="beIN Sports 3 HD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png" group-title="WORLD CUP",beIN Sports 3 HD FR
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/14413.m3u8
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="beIN Sports 3 FHD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png" group-title="WORLD CUP",beIN Sports 3 FHD FR
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/27736.m3u8
+https://webdi.openhd.lol/ddyx2/premium299/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic675.jpg",TRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://webdi.openhd.lol/lb/premium1/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="", 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://webdi.openhd.lol/lb/premium4/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic507.jpg",M4 Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://webdi.openhd.lol/lb/premium5/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",ZIVE SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://webdi.openhd.lol/lb/premium9/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 ####[#===INDONESIA===]
 
