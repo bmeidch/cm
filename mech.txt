@@ -5,7 +5,7 @@
 ========WORLD CUP=========
 #EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://www.seekpng.com/png/full/319-3195444_fs1-fox-sports-2.png",FS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webudi.openhd.lol/lb/premium39/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#https://webudi.openhd.lol/lb/premium39/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 https://webdi.openhd.lol/lb/premium39/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="WORLD CUP" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 ᴴᴰ
@@ -21,7 +21,7 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/159582
 
 #EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://i.imgur.com/v48ueao.png" ,TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webudi.openhd.lol/lb/premium111/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/lb/premium111/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://s.id/1pI5K",MBC
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -37,11 +37,11 @@ https://webdi.openhd.lol/ddyx2/premium295/index.m3u8?|referer=https://widevine.l
 
 #EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic869.jpg" group-title="WORLD CUP",BeinSports Max 3 EN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webudi.openhd.lol/lb/premium298/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/lb/premium298/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic867.jpg" group-title="WORLD CUP",BeinSports Max 1 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webudi.openhd.lol/lb/premium296/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/lb/premium296/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic868.jpg" group-title="WORLD CUP",BeinSports Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
