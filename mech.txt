@@ -8,32 +8,8 @@
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 https://edge1.zorrohd4.nl/live/ST560301f1b4d56f4.m3u8
 
-#EXTINF:-1 group-title="WORLD CUP" ,十一体育 4K
-http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
-
 #EXTINF:-1 group-title="WORLD CUP" ,广东体育
 http://120.84.96.26:808/hls/22/index.m3u8
-
-#EXTINF:-1 group-title="WORLD CUP" ,Sport5 4k
-http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
-
-#EXTINF:-1 group-title="WORLD CUP" ,广东体育
-http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
-
-#EXTINF:-1 group-title="WORLD CUP" ,Eleven Sports 1 4K
-http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
-
-#EXTINF:-1 group-title="WORLD CUP" ,Sky Sport UHD
-http://cdn.spmr.tv:8080/3sin1s/video.m3u8?token=WYPW6GSH4H
-
-#EXTINF:-1 group-title="WORLD CUP" ,RU Матч 4k
-http://cdn.spmr.tv:8080/w60cdr/video.m3u8?token=WYPW6GSH4H
-
-#EXTINF:-1 group-title="WORLD CUP",Sky Sport UHD
-http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=WYPW6GSH4H
-
-#EXTINF:-1 group-title="WORLD CUP",TRT 4k-3
-http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
 
 #EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://s.id/suso4k",NOW TV 4k World CUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
@@ -1076,6 +1052,16 @@ http://pprotv.com/asim1234/123456/39555
 ##[END OF INDONESIA TV SPORT]
 
 ##[#===FOX SPORT===]
+
+#EXTINF:-1 group-title="SPORTS" ,Sport5 4k
+http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
+
+#EXTINF:-1 group-title="SPORTS" ,Eleven Sports 1 4K
+http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
+
+#EXTINF:-1 group-title="SPORTS",Sky Sport UHD
+http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=WYPW6GSH4H
+
 #EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://iptv.live/images/logo/channel/crops/891185b3028fc4bed818be930ae6e0dc.png", Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/2016/11/logo_sport_r1.png" group-title="SPORTS",TRACE SPORT STARS
