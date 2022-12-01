@@ -3,17 +3,16 @@
 ##EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="3600"
 
 ========WORLD CUP=========
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://img2.pngdownload.id/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg",TYC SPORTS
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://s.id/TYCSPORTS",TYC SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 https://edge1.zorrohd4.nl/live/ST560301f1b4d56f4.m3u8
 
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://wikisouthafrica.co.za/wp-content/uploads/2021/08/supersport.png",SuperSport 4k World CUP
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://s.id/suso4k",SuperSport 4k World CUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
-http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://www.seekpng.com/png/full/319-3195444_fs1-fox-sports-2.png",FS 1
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://s.id/fsfox1",FS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #https://webudi.openhd.lol/lb/premium39/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 https://webdi.openhd.lol/lb/premium39/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -25,9 +24,6 @@ https://webdi.openhd.lol/lb/premium49/index.m3u8?|referer=https://widevine.licen
 #EXTINF:-1 group-title="WORLD CUP" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 ᴴᴰ B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://cdn.spmr.tv:8080/d6pvl0/video.m3u8?token=WYPW6GSH4H
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 HD J
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/159582
 
 #EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://i.imgur.com/v48ueao.png" ,TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -45,19 +41,21 @@ https://webdi.openhd.lol/ddyx2/premium294/index.m3u8?|referer=https://widevine.l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/ddyx2/premium295/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic869.jpg" group-title="WORLD CUP",BeinSports Max 3 EN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/bSM-3.jpg" group-title="WORLD CUP",BeinSports Max 3 EN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/lb/premium298/index.m3u8
 https://webdi.openhd.lol/lb/premium298/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic867.jpg" group-title="WORLD CUP",BeinSports Max 1 AR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/bSM-1.jpg" group-title="WORLD CUP",BeinSports Max 1 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium296/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic868.jpg" group-title="WORLD CUP",BeinSports Max 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/bSM-2.jpg" group-title="WORLD CUP",BeinSports Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webudi.openhd.lol/lb/premium297/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic541.jpg" group-title="WORLD CUP",BeinSports Max 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/bSM-4.jpg" group-title="WORLD CUP",BeinSports Max 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/ddyx2/premium299/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
@@ -69,7 +67,7 @@ https://webdi.openhd.lol/lb/premium1/index.m3u8?|referer=https://widevine.licens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium4/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic507.jpg",M4 Sport
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/small_pic507.jpg",M4 Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/lb/premium5/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
@@ -84,19 +82,19 @@ https://webdi.openhd.lol/lb/premium9/index.m3u8?|referer=https://widevine.licens
 https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.imgur.com/EYL6HM2.jpg" ,SCTV
-https://noruwet.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
+#https://noruwet.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
 https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606f050f137c26cc67bb
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="LOKAL" tvg-id="Trans7" tvg-name="Trans7" tvg-logo="https://i.imgur.com/Yy8ikkf.jpg" ,Trans 7
-https://noruwet.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/734-trans7
+#https://noruwet.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/734-trans7
 https://av-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="LOKAL" tvg-id="TransTV" tvg-name="TransTV" tvg-logo="https://i.imgur.com/oDgMlnR.jpg" ,Trans TV
-https://noruwet.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv
+#https://noruwet.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv
 https://av-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 ##KODIPROP:inputstream=inputstream.adaptive
@@ -106,9 +104,8 @@ https://av-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTVLCOPT:network-caching=2000
 #EXTINF:-1 group-title="LOKAL" tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-language="Indonesia" tvg-logo="https://img.inews.co.id/files/img/streaming/logorcti_2018.png" ,RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rcti-linier.rctiplus.id/RCTI2022-avc1_6673200=7-mp4a_96000=2.m3u8
-https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/index.m3u8
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
+https://rcti-linier.rctiplus.id/RCTI2022.m3u8
+https://d1p83s84hrxz1t.cloudfront.net/RCTI_2021.m3u8
 https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2922,5 +2919,4 @@ https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/
 https://afda8ca41e7a407eb97239803281b088.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Bloomberg/playlist.m3u8
 #EXTINF:-1 tvg-id="Rakuten_801-the-guardian" tvg-logo="https://images-2.wuaki.tv/system/artworks/377/original/the-guardian-1642407848.jpeg" group-title="Rakuten",The Guardian
 https://d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TheGuardianChannel/playlist.m3u8
-
 
