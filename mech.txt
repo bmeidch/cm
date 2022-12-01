@@ -8,10 +8,7 @@
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 https://edge1.zorrohd4.nl/live/ST560301f1b4d56f4.m3u8
 
-#EXTINF:-1 group-title="WORLD CUP" ,广东体育
-http://120.84.96.26:808/hls/22/index.m3u8
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://s.id/suso4k",NOW TV 4k World CUP
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://www.nowtv.now.com/promo/fifaworldcup2022/images/wc-logo-en.png",NOW TV 4k World CUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 
