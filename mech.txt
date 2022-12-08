@@ -120,9 +120,8 @@ https://av-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTVLCOPT:network-caching=2000
 #EXTINF:-1 group-title="LOKAL" tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-language="Indonesia" tvg-logo="https://img.inews.co.id/files/img/streaming/logorcti_2018.png" ,RCTI
 ##EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d1p83s84hrxz1t.cloudfront.net/RCTI2022.m3u8
 https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#https://rcti-linier.rctiplus.id/RCTI2022.m3u8
-#https://d1p83s84hrxz1t.cloudfront.net/RCTI_2021.m3u8
 https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
