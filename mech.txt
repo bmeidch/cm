@@ -112,14 +112,14 @@ https://av-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #https://noruwet.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv
 https://av-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-##KODIPROP:inputstream=inputstream.adaptive
-##KODIPROP:inputstream.adaptive.manifest_type=mpd
-##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-##KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTVLCOPT:network-caching=2000
 #EXTINF:-1 group-title="LOKAL" tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-language="Indonesia" tvg-logo="https://img.inews.co.id/files/img/streaming/logorcti_2018.png" ,RCTI
 ##EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d1p83s84hrxz1t.cloudfront.net/RCTI2022.m3u8
+#https://d1p83s84hrxz1t.cloudfront.net/RCTI2022.m3u8
 https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
@@ -661,9 +661,9 @@ https://wowzaec2demo.streamlock.net/live/bigbuckbunny/eroz_brebes.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tes" tvg-logo="https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2021/05/27151240/AB_RELOADED_202105_780x800_CharactersAndLogo-1.png" group-title="KIDS", Angry Bird
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=547
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-Pwuqij2lDrpgyFWvvAhxyiYEj5u9XFRutQf-3fw=s88-c-k-c0x00ffffff-no-rj" ,BabyBus
-https://risau.herokuapp.com/query?id=https://www.youtube.com/channel/UC5v3gjCQLFeg8eBXO7ShdpQ/live
+https://raw.githubusercontent.com/bmeidch/ytlok/main/babybus.m3u
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/h54Q6KfVyaisT_mHs6do41GDgGksdAuiv9e1k5mlF6HTZjMc-z-iDSQDpT0CYG_czDVOeYvrQA=s88-c-k-c0x00ffffff-no-rj" ,Super JOJO
-https://risau.herokuapp.com/query?id=https://www.youtube.com/channel/UC_S8TNffRECCdqdrmYlNejw/live
+https://raw.githubusercontent.com/bmeidch/ytlok/main/sujo.m3u
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTwURnqPZtoUiVz9paF1nQW5m1_JfpIrSOWnMGQ=s88-c-k-c0x00ffffff-no-rj" ,Upin Ipin S15 YT
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/7vTmnla.jpg" ,NICKELODEON YT
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://imgur.com/3XnG3QW.jpg" ,WB Kids YT
