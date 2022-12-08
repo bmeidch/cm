@@ -97,19 +97,19 @@ https://webdi.openhd.lol/lb/premium5/index.m3u8
 https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.imgur.com/EYL6HM2.jpg" ,SCTV
-#https://noruwet.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
 https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606f050f137c26cc67bb
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="LOKAL" tvg-id="Trans7" tvg-name="Trans7" tvg-logo="https://i.imgur.com/Yy8ikkf.jpg" ,Trans 7
-#https://noruwet.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/734-trans7
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/734-trans7
 https://av-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="LOKAL" tvg-id="TransTV" tvg-name="TransTV" tvg-logo="https://i.imgur.com/oDgMlnR.jpg" ,Trans TV
-#https://noruwet.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv
 https://av-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -178,7 +178,7 @@ http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
 #http://119.235.249.58:1935/uchannel/live/chunklist.m3u8
 https://5e396e0211d7a.streamlock.net/uchannel/live/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/7NhTtvp/pijsrtv.png" ,PIJAR TV
-https://noruwet.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/pijartv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/pijartv
 #EXTINF:-1 group-title="LOKAL" tvg-id="Ainos.id" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ainos-id.png" ,Ainos
 https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
 
@@ -191,7 +191,7 @@ https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
 https://av-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="hope.MACAN" tvg-name="Hope Channel" tvg-logo="https://i.ibb.co/Jj5rNMx/hopech.png" ,HOPE CHANNEL
-https://risau.herokuapp.com/query?id=https://www.youtube.com/c/HopeChannelIndonesia/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/HopeChannelIndonesia/live
 #EXTINF:-1 group-title="LOKAL" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/41Qj7GT/iamch.png" ,I AM Channel
 http://iamchannel.org:1935/tes/1/chunklist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-id="Reformed21.id" tvg-name="Reformed 21 TV" tvg-logo="https://i.ibb.co/X2Q56SR/r21.png" ,Reformed 21
@@ -199,15 +199,15 @@ http://iamchannel.org:1935/tes/1/chunklist.m3u8
 //\\===http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-id="KompasTv" tvg-name="KompasTv" tvg-logo="https://i.imgur.com/1KEE3Tu.jpg" ,Kompas TV
 https://giveme.vercel.app/api/dm?id=kD9l8sWXqRfBh0rvk82
-#https://risau.herokuapp.com/query?id=https://www.dailymotion.com/video/kD9l8sWXqRfBh0rvk82
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/kD9l8sWXqRfBh0rvk82
 http://iptvid.my.id/hmm/kompastv.m3u8 
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="https://i.imgur.com/6Q19wx5.jpg" ,Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w846993376_b1492000_sleng.m3u8
-#https://risau.herokuapp.com/query?id=https://www.youtube.com/c/MetrotvnewsOfficial/live
-https://risau.herokuapp.com/query?id=https://www.dailymotion.com/video/k236ofBIxajxDiti8CY
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MetrotvnewsOfficial/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/k236ofBIxajxDiti8CY
 https://giveme.vercel.app/api/dm?id=k236ofBIxajxDiti8CY
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="TVOne" tvg-name="TVOne" tvg-logo="https://s.id/-Um6k" ,TV ONE
@@ -238,17 +238,17 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="LOKAL" group-title="BERITA" tvg-id="seatoday" tvg-name="seatoday" tvg-logo="https://i.imgur.com/CZjFVWM.jpg" ,Sea Today
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://s.id/Um9C" ,TEMPO TV
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7946-tv-tempo
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7946-tv-tempo
 #EXTINF:-1 group-title="LOKAL" group-title="BERITA" tvg-logo="https://i.ibb.co/vxnscqc/jawapostv.png" ,Jawa Pos TV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 ##EXTINF:-1 group-title="LOKAL" tvg-logo="https://imgur.com/ioAEkVf.png" ,JPM
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-id="DaaiTv.MACAN" tvg-name="Daai TV" tvg-logo="https://i.imgur.com/eSR2ur7.jpg" ,DAAI TV
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/6482-daai-tv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/6482-daai-tv
 #EXTINF:-1 group-title="LOKAL" tvg-id="MYTV.id" tvg-name="MY TV" tvg-logo="https://i.imgur.com/jYBfOWc.jpg" ,MY TV
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/6711-mytv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/6711-mytv
 #EXTINF:-1 group-title="LOKAL" tvg-id="JakTV.MACAN" tvg-name="JakTV" tvg-logo="https://i.imgur.com/PQG5O8K.jpg" ,JakTV
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/5415-jaktv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/5415-jaktv
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/pimages/logo_indonesiana_new_big.png", INDOSIANA
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/6.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/portrait_xhdpi_mus_1.jpg" ,The Indonesia Channel
@@ -607,7 +607,7 @@ https://giveme.vercel.app/api/dm?id=k236ofBIxajxDiti8CY
 #EXTINF:-1 group-title="BERITA"  tvg-id="KompasTv" tvg-name="KompasTv" tvg-logo="https://i.ibb.co/nkXZZzw/kompastv.png" ,KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-id="TVOne.MACAN" tvg-name="tvOne" tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" ,TV ONE
-https://risau.herokuapp.com/query?id=https://www.youtube.com/c/tvOneNews/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/tvOneNews/live
 https://giveme.vercel.app/api/dm?id=k2uDgtBgdyXR1AoH4XD
 #EXTINF:-1 group-title="BERITA" tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i.ibb.co/M9MPtLr/tvri.png" ,TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(02)/index.m3u8
@@ -618,7 +618,7 @@ https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-id="CNN International Asia Pacific" tvg-name="CNN International Asia Pacific" tvg-logo="https://i.imgur.com/luNCDBQ.jpg" ,CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-logo="https://i.imgur.com/u2jzj5W.png" ,Channel News Asia
-https://risau.herokuapp.com/query?id=https://www.youtube.com/user/channelnewsasia/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/channelnewsasia/live
 ##EXTINF:-1 group-title="BERITA" tvg-id="EuroNewsEnglish.fr" tvg-name="Euronews" tvg-logo="https://i.imgur.com/fnZpEXb.png" ,Euronews
 ##EXTINF:-1 group-title="BERITA" tvg-id="EuroNewsEnglish.fr" tvg-name="Euronews" tvg-logo="https://i.imgur.com/JQyGCO3.jpg" ,Euronews UDP
 ##EXTINF:-1 group-title="BERITA" tvg-id="France 24" tvg-name="France 24" tvg-logo="https://i.imgur.com/wwqZY4I.png" ,France24
@@ -637,13 +637,13 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtMkJq.png",Channel News Asia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-https://risau.herokuapp.com/query?id=https://www.youtube.com/user/channelnewsasia/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/channelnewsasia/live
 ##EXTINF:-1 group-title="BERITA" tvg-id="ABCTV.au" tvg-name="ABC TV" tvg-logo="https://i.imgur.com/sSQlyMa.jpg" ,ABC TV
 #EXTINF:-1 group-title="BERITA" tvg-id="ABC Australia Asia" tvg-name="ABC Australia Asia" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtMuX1.jpg",ABC News Aus
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-id="ABC Australia Asia" tvg-name="ABC Australia Asia" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CwWE3a.jpg",ABC NewsLive
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-https://risau.herokuapp.com/query?id=https://www.youtube.com/c/ABCNews/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ABCNews/live
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CwWnbe.jpg",CBSN
 https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/TRT-1-Yeni-40px.png" ,TRT 1
@@ -667,7 +667,7 @@ https://raw.githubusercontent.com/bmeidch/ytlok/main/sujo.m3u
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTwURnqPZtoUiVz9paF1nQW5m1_JfpIrSOWnMGQ=s88-c-k-c0x00ffffff-no-rj" ,Upin Ipin S15 YT
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/7vTmnla.jpg" ,NICKELODEON YT
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://imgur.com/3XnG3QW.jpg" ,WB Kids YT
-https://risau.herokuapp.com/query?id=https://www.youtube.com/c/wbkids/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/wbkids/live
 [###KIDS###]
 ##EXTINF:-1 group-title="KIDS" tvg-id="DuniaAnak" tvg-name="Dunia anak" tvg-logo="https://i.imgur.com/MkoglI5.png" ,Dunia Anak
 #EXTINF:-1 group-title="KIDS" tvg-id="mykid" tvg-name="Mykidz" tvg-logo="https://i.imgur.com/lREUNbp.png" ,My Kidz
@@ -1520,71 +1520,71 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115809
 
 [//VIDIO-RADIO]
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/JkDuCoX.jpg" ,ARDAN RADIO
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7184-ardan-radio
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7184-ardan-radio
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/PknNcSV.jpg" ,GEN FM JAKARTA
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7443-gen-fm-jakarta
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7443-gen-fm-jakarta
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://NGSYT.etus.link" ,NAGASWARA RADIOTEMEN LIVE
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/8638-nagaswara-radiotemen
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/8638-nagaswara-radiotemen
 #EXTINF:-1 group-title="VIDIO" tvg-id="prambors" tvg-name="Prambors.id" tvg-logo="https://i.imgur.com/V3sgVfR.jpg" ,PRAMBORS ON AIR
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7004-prambors-on-air
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7004-prambors-on-air
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/8RAfDZe.jpg" ,DELTA FM
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7092-delta-fm
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7092-delta-fm
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/NgXU3jS.jpg" ,I-RADIO
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7057-i-radio
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7057-i-radio
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/4XHhmwT.jpg" ,MGTRADIO
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7188-mgtradio
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7188-mgtradio
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/oPkEM4K.jpg" ,ELSHINTA 90 FM
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7166-elshinta-90-fm
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7166-elshinta-90-fm
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/yCm95Le.jpg" ,JAK FM
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7449-jak-fm
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7449-jak-fm
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/pyS6zdr.jpg" ,HARD ROCK FM
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7053-hard-rock-fm
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7053-hard-rock-fm
 ##EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/2NQ87Vm.jpg" ,BAHANA FM
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7091
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7091
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/f6FppyZ.jpg" ,MUSTANG FM
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7447-mustang-fm
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7447-mustang-fm
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/T9FDcHA.jpg" ,COSMOPOLITAN FM
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7056-cosmopolitan-radio
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7056-cosmopolitan-radio
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/mCX4pug.jpg" ,HOT-FM
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7448-hot-fm
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7448-hot-fm
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/M61vEtr.jpg" ,BRAVA RADIO
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7054-brava-radio
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7054-brava-radio
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/RjDVjyw.jpg" ,RADIO CAKRA
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7297-radio-cakra
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7297-radio-cakra
 ##EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/3cUXCR0.jpg" ,TRAX FM
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7055
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7055
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/GiSIX9C.jpg" ,SWARAGAMA-FM-JOGJA
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7248-swaragama-fm-jogja
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7248-swaragama-fm-jogja
 ##EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/4Uc3ivk.jpg" ,GEN-FM-SURABAYA
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7446
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7446
 ##EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/d4YlX4M.jpg" ,DAHLIA FM
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7242
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7242
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/nzvJQQA.jpg" ,FEMALE FM
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7130-female-fm
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7130-female-fm
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/Np1EWJ2.jpg" ,KIS FM
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7445-kis-fm
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7445-kis-fm
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/0zDUKS0.jpg" ,RAMA-FM
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7684-rama-fm
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7684-rama-fm
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/NHcRJAZ.jpg" ,GAJAHMADA
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7284-gajahmada
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7284-gajahmada
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/9PJrEE4.jpg" ,MOST-FM
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7450-most-fm
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7450-most-fm
 ##EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/kgOTys0.jpg" ,GERONIMO
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7216
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7216
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/Yr7d7Gs.jpg" ,SWARA-SEMARANG
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7283-swara-semarang
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7283-swara-semarang
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/eomJXCF.jpg" ,PARAMUDA-FM
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7685-paramuda-fm
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7685-paramuda-fm
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/Rh9fKaW.jpg" ,IMELDA-FM
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7281-imelda-fm
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7281-imelda-fm
 ##EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/CZAP2Jz.jpg" ,SUSHI-RADIO
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7218
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7218
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/z1JFwPs.jpg" ,ELMITRA
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7170-elmitra
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7170-elmitra
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/wCzE0ET.jpg" ,ELGANGGA
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7169-elgangga
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7169-elgangga
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/ccgNpw8.jpg" ,JIZ-FM
-https://risau.herokuapp.com/query?id=https://www.vidio.com/live/7792-jiz-fm
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7792-jiz-fm
 ##[#===END of VIDIO===]
 ##[#===TV LUAR===]
 ##EXTINF:-1 group-title="TV LUAR" tvg-logo="https://i.imgur.com/ninzFrE.png" ,ITV
@@ -1787,7 +1787,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="BernamaTV.my" tvg-name="Bernama TV" tvg-logo="https://i.imgur.com/DM54Dn4.png" ,Bernama
-https://risau.herokuapp.com/query?id=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
 #EXTINF:-1 group-title="MALAYSIA" tvg-ID="AstroWarna.my" tvg-logo="https://imgur.com/uEjBXF1.png" ,Astro Warna
 http://23.237.10.66:16424
 #EXTINF:-1 group-title="MALAYSIA" tvg-ID="AstroPrima.my" tvg-logo="https://imgur.com/33oFoRl.png" ,Astro Prima
@@ -1977,28 +1977,28 @@ https://gizeme.herokuapp.com/query?id=https://www.youtube.com/c/integritymusic/l
 ##EXTINF:-1 group-title="YT LOKAL" tvg-id="TransTV.MACAN" tvg-name="TransTV" tvg-logo="https://i.imgur.com/x6IxmUA.png" ,Trans TV
 #https://linkastream.co/headless?url=https://www.youtube.com/watch?v=bMaudmL5bOc
 #EXTINF:-1 group-title="YT LOKAL" tvg-id="NetTV" tvg-name="NetTV" tvg-logo="https://i.imgur.com/EQWmUKD.png" ,Net.
-https://risau.herokuapp.com/query?id=https://www.youtube.com/channel/UC1-ATnDVEwKT6-0aEeJ2ibA/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1-ATnDVEwKT6-0aEeJ2ibA/live
 ##EXTINF:-1 group-title="YT LOKAL" tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://i.ibb.co/M9MPtLr/tvri.png" ,TVRI NASIONAL
 #https://linkastream.co/headless?url=https://www.youtube.com/watch?v=DoId7EJTzxs
 #EXTINF:-1 group-title="YT LOKAL" tvg-id="KompasTv" tvg-name="KompasTv" tvg-logo="https://imgur.com/pwtBC66.png" ,Kompas TV
-https://risau.herokuapp.com/query?id=https://www.youtube.com/c/kompastv/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/kompastv/live
 https://giveme.vercel.app/api/dm?id=kD9l8sWXqRfBh0rvk82
 #EXTINF:-1 group-title="YT LOKAL" tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="https://i.imgur.com/6Q19wx5.jpg" ,METRO TV
-https://risau.herokuapp.com/query?id=https://www.youtube.com/c/MetrotvnewsOfficial/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MetrotvnewsOfficial/live
 #EXTINF:-1 group-title="YT LOKAL" tvg-id="TVOne.MACAN" tvg-name="tvOne" tvg-logo="https://i.ibb.co/ZzQP7VS/tvone.png" ,TV ONE
-https://risau.herokuapp.com/query?id=https://www.youtube.com/c/tvOneNews/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/tvOneNews/live
 ##EXTINF:-1 group-title="YT LOKAL" tvg-id="iNewsTV.MACAN" tvg-name="iNews" tvg-logo="https://i.imgur.com/0NMEYxR.jpg" ,INEWS
 #https://linkastream.co/headless?url=https://www.youtube.com/watch?v=abL6H3ywSrE
 #EXTINF:-1 group-title="YT LOKAL" tvg-id="Reformed21.id" tvg-name="Reformed 21 TV" tvg-logo="https://i.ibb.co/X2Q56SR/r21.png" ,Reformed 21
-https://risau.herokuapp.com/query?id=https://www.youtube.com/user/Reformed21TV/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/Reformed21TV/live
 #EXTINF:-1 group-title="YT LOKAL" tvg-logo="https://i.ibb.co/Cz0KCSf/tvdesa.png" ,TV DESA
-https://risau.herokuapp.com/query?id=https://www.youtube.com/c/TVDesaONTERUS/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVDesaONTERUS/live
 #EXTINF:-1 group-title="YT LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5f/Musica_Studios.jpg" ,Musica Studios
-https://risau.herokuapp.com/query?id=https://www.youtube.com/channel/UCNlU3oSU8UnJ_V9uMB-cPOg/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCNlU3oSU8UnJ_V9uMB-cPOg/live
 #EXTINF:-1 group-title="YT LOKAL" tvg-logo="https://NGSYT.etus.link" ,NAGASWARA RADIOTEMEN LIVE POP INDONESIA TERBAIK 2004 - 2022 - nonSTOP
 https://gizeme.herokuapp.com/query?id=https://www.youtube.com/watch?v=Is03gZsBeq0
 #EXTINF:-1 group-title="YT LOKAL" tvg-logo="https://AQURL.etus.link" ,Aquarius Musikindo
-https://risau.herokuapp.com/query?id=https://www.youtube.com/c/AquariusMusikindo/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/AquariusMusikindo/live
 
 ##[#===YT===]
 ###END_of_LOKAL###
