@@ -9,7 +9,6 @@
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-
 #EXTINF:-1 group-title="DUBAI SUPER CUP" tvg-logo="https://bit.ly/3iMskrB",2.Arsenal vs Lyon (22:30 WIB)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1131,6 +1130,22 @@ https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 
 #===CN LIVE SPORT===
 
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/sk-2.jpg" group-title="SPORTS",SK 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/lb/premium102/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/sk-3.jpg" group-title="SPORTS",SK 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium103/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/sk-4.jpg" group-title="SPORTS",SK 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/lb/premium104/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/sk-5.jpg" group-title="SPORTS",SK 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/lb/premium105/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/41q41h3/Now-Sports-Prime-BEARTV.png" group-title="SPORTS",Now Sports Prime
 http://livetv.dnsfor.me/channel.12.m3u8
 ##EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/CK9FQMK/QAZSPORTHD-BEARTV.png" ,QAZSPORT HD
