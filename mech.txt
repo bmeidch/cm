@@ -2,19 +2,6 @@
 ##EXTM3U url-tvg="https://cdn.macan.tv/epgtv.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="1440"
 ##EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="3600"
 
-
-##EXTINF:-1 group-title="DUBAI SUPER CUP" tvg-logo="https://bit.ly/3iMskrB",1.Arsenal vs Lyon (22:30 WIB)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-##EXTINF:-1 group-title="DUBAI SUPER CUP" tvg-logo="https://bit.ly/3iMskrB",2.Arsenal vs Lyon (22:30 WIB)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://anevia114.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
 ========WORLD CUP=========
 #EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://s.id/TYCSPORTS",TYC SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
@@ -93,6 +80,7 @@ https://webdi.openhd.lol/lb/premium5/index.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/mIOpbah.jpg" ,Indosiar
 ##EXTVLCOPT:http-user-agent=android-12
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.imgur.com/EYL6HM2.jpg" ,SCTV
@@ -660,10 +648,10 @@ https://wowzaec2demo.streamlock.net/live/bigbuckbunny/eroz_brebes.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tes" tvg-logo="https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2021/05/27151240/AB_RELOADED_202105_780x800_CharactersAndLogo-1.png" group-title="KIDS", Angry Bird
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=547
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-Pwuqij2lDrpgyFWvvAhxyiYEj5u9XFRutQf-3fw=s88-c-k-c0x00ffffff-no-rj" ,BabyBus
-#https://raw.githubusercontent.com/bmeidch/ytlok/main/babybus.m3u
+https://raw.githubusercontent.com/bmeidch/ytlok/main/babybus.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5v3gjCQLFeg8eBXO7ShdpQ/live
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/h54Q6KfVyaisT_mHs6do41GDgGksdAuiv9e1k5mlF6HTZjMc-z-iDSQDpT0CYG_czDVOeYvrQA=s88-c-k-c0x00ffffff-no-rj" ,Super JOJO
-#https://raw.githubusercontent.com/bmeidch/ytlok/main/sujo.m3u
+https://raw.githubusercontent.com/bmeidch/ytlok/main/sujo.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_S8TNffRECCdqdrmYlNejw/live
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTwURnqPZtoUiVz9paF1nQW5m1_JfpIrSOWnMGQ=s88-c-k-c0x00ffffff-no-rj" ,Upin Ipin S15 YT
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/7vTmnla.jpg" ,NICKELODEON YT
@@ -992,11 +980,13 @@ https://cdn.underfront.org/zqfb/tracks-v1a1/mono.m3u8
 
 [//VIDIO-SPORTS]
 
-###EXTINF:-1 group-title="IM SPORTS" tvg-id="ChampionsTV1.id" tvg-name="Champions TV 1" tvg-logo="https://i.imgur.com/a6FgRtT.jpg" ,CHAMPIONS TV 1
+#EXTINF:-1 group-title="IM SPORTS" tvg-id="ChampionsTV1.id" tvg-name="Champions TV 1" tvg-logo="https://i.imgur.com/a6FgRtT.jpg" ,CHAMPIONS TV 1
 ####EXTVLCOPT:http-user-agent=android-12
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/228341.ts
 ##http://tv.zonanime.my.id/vidio/championstv1.m3u8
-###EXTINF:-1 group-title="IM SPORTS" tvg-id="ChampionsTV2.id" tvg-name="Champions TV 2" tvg-logo="https://i.imgur.com/YWskGPV.jpg" ,CHAMPIONS TV 2
+#EXTINF:-1 group-title="IM SPORTS" tvg-id="ChampionsTV2.id" tvg-name="Champions TV 2" tvg-logo="https://i.imgur.com/YWskGPV.jpg" ,CHAMPIONS TV 2
 ####EXTVLCOPT:http-user-agent=android-12
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/228244.ts
 ##http://tv.zonanime.my.id/vidio/championstv2.m3u8
 ###EXTINF:-1 group-title="IM SPORTS" tvg-id="ChampionsTV3.id" tvg-name="Champions TV 3" tvg-logo="https://i.imgur.com/IDCsKQZ.jpg" ,CHAMPIONS TV 3
 ####EXTVLCOPT:http-user-agent=android-12
