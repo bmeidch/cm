@@ -1988,11 +1988,14 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 ##EXTINF:-1 group-title="YT LOKAL" tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://i.ibb.co/M9MPtLr/tvri.png" ,TVRI NASIONAL
 #https://linkastream.co/headless?url=https://www.youtube.com/watch?v=DoId7EJTzxs
 #EXTINF:-1 group-title="YT LOKAL" tvg-id="KompasTv" tvg-name="KompasTv" tvg-logo="https://imgur.com/pwtBC66.png" ,Kompas TV
+https://raw.githubusercontent.com/bmeidch/ytlok/main/kompastv.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/kompastv/live
 https://giveme.vercel.app/api/dm?id=kD9l8sWXqRfBh0rvk82
 #EXTINF:-1 group-title="YT LOKAL" tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="https://i.imgur.com/6Q19wx5.jpg" ,METRO TV
+https://raw.githubusercontent.com/bmeidch/ytlok/main/metrotv.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MetrotvnewsOfficial/live
 #EXTINF:-1 group-title="YT LOKAL" tvg-id="TVOne.MACAN" tvg-name="tvOne" tvg-logo="https://i.ibb.co/ZzQP7VS/tvone.png" ,TV ONE
+https://raw.githubusercontent.com/bmeidch/ytlok/main/tvone.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/tvOneNews/live
 ##EXTINF:-1 group-title="YT LOKAL" tvg-id="iNewsTV.MACAN" tvg-name="iNews" tvg-logo="https://i.imgur.com/0NMEYxR.jpg" ,INEWS
 #https://linkastream.co/headless?url=https://www.youtube.com/watch?v=abL6H3ywSrE
