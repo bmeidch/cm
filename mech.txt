@@ -178,6 +178,7 @@ https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
 https://av-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="hope.MACAN" tvg-name="Hope Channel" tvg-logo="https://i.ibb.co/Jj5rNMx/hopech.png" ,HOPE CHANNEL
+https://raw.githubusercontent.com/bmeidch/ytlok/main/hope.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/HopeChannelIndonesia/live
 #EXTINF:-1 group-title="LOKAL" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/41Qj7GT/iamch.png" ,I AM Channel
 http://iamchannel.org:1935/tes/1/chunklist.m3u8
@@ -198,7 +199,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 https://giveme.vercel.app/api/dm?id=k236ofBIxajxDiti8CY
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="TVOne" tvg-name="TVOne" tvg-logo="https://s.id/-Um6k" ,TV ONE
-https://giveme.vercel.app/api/dm?id=k2uDgtBgdyXR1AoH4XD
+#https://giveme.vercel.app/api/dm?id=k2uDgtBgdyXR1AoH4XD
+https://raw.githubusercontent.com/bmeidch/ytlok/main/tvone.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i.imgur.com/jUrCTsp.jpg" ,TVRI NASIONAL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -594,6 +596,7 @@ https://giveme.vercel.app/api/dm?id=k236ofBIxajxDiti8CY
 #EXTINF:-1 group-title="BERITA"  tvg-id="KompasTv" tvg-name="KompasTv" tvg-logo="https://i.ibb.co/nkXZZzw/kompastv.png" ,KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-id="TVOne.MACAN" tvg-name="tvOne" tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" ,TV ONE
+https://raw.githubusercontent.com/bmeidch/ytlok/main/tvone.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/tvOneNews/live
 https://giveme.vercel.app/api/dm?id=k2uDgtBgdyXR1AoH4XD
 #EXTINF:-1 group-title="BERITA" tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i.ibb.co/M9MPtLr/tvri.png" ,TVRI
@@ -605,6 +608,7 @@ https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-id="CNN International Asia Pacific" tvg-name="CNN International Asia Pacific" tvg-logo="https://i.imgur.com/luNCDBQ.jpg" ,CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-logo="https://i.imgur.com/u2jzj5W.png" ,Channel News Asia
+https://raw.githubusercontent.com/bmeidch/ytlok/main/cna.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/channelnewsasia/live
 ##EXTINF:-1 group-title="BERITA" tvg-id="EuroNewsEnglish.fr" tvg-name="Euronews" tvg-logo="https://i.imgur.com/fnZpEXb.png" ,Euronews
 ##EXTINF:-1 group-title="BERITA" tvg-id="EuroNewsEnglish.fr" tvg-name="Euronews" tvg-logo="https://i.imgur.com/JQyGCO3.jpg" ,Euronews UDP
@@ -629,6 +633,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/ch
 #EXTINF:-1 group-title="BERITA" tvg-id="ABC Australia Asia" tvg-name="ABC Australia Asia" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtMuX1.jpg",ABC News Aus
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-id="ABC Australia Asia" tvg-name="ABC Australia Asia" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CwWE3a.jpg",ABC NewsLive
+https://raw.githubusercontent.com/bmeidch/ytlok/main/ABCNews.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ABCNews/live
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CwWnbe.jpg",CBSN
@@ -1984,6 +1989,7 @@ https://gizeme.herokuapp.com/query?id=https://www.youtube.com/c/integritymusic/l
 ##EXTINF:-1 group-title="YT LOKAL" tvg-id="TransTV.MACAN" tvg-name="TransTV" tvg-logo="https://i.imgur.com/x6IxmUA.png" ,Trans TV
 #https://linkastream.co/headless?url=https://www.youtube.com/watch?v=bMaudmL5bOc
 #EXTINF:-1 group-title="YT LOKAL" tvg-id="NetTV" tvg-name="NetTV" tvg-logo="https://i.imgur.com/EQWmUKD.png" ,Net.
+https://raw.githubusercontent.com/bmeidch/ytlok/main/nettv.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1-ATnDVEwKT6-0aEeJ2ibA/live
 ##EXTINF:-1 group-title="YT LOKAL" tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://i.ibb.co/M9MPtLr/tvri.png" ,TVRI NASIONAL
 #https://linkastream.co/headless?url=https://www.youtube.com/watch?v=DoId7EJTzxs
