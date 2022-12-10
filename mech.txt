@@ -80,7 +80,7 @@ https://webdi.openhd.lol/lb/premium5/index.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/mIOpbah.jpg" ,Indosiar
 ##EXTVLCOPT:http-user-agent=android-12
-http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+#http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.imgur.com/EYL6HM2.jpg" ,SCTV
@@ -152,6 +152,7 @@ http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 http://122.248.43.138:1935/ch15/myStream/live.m3u8
 ##EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/xLjWSqz/ruaitv.png" ,RUAI TV
 #https://www.youtube.com/watch?v=jVZE8fX3TTw
+https://raw.githubusercontent.com/bmeidch/ytlok/main/ruai.m3u8
 ##EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/xLjWSqz/ruaitv.png" ,DAYAK
 #https://linkastream.co/headless?url=eQ7GI9J-toI&list=PLbj_pPF1lXNkl0B08x4Lhw4XcTpVQOmom
 
@@ -658,6 +659,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/h54Q6KfVyaisT_mHs6do41GDgGksdAuiv9e1k5mlF6HTZjMc-z-iDSQDpT0CYG_czDVOeYvrQA=s88-c-k-c0x00ffffff-no-rj" ,Super JOJO
 https://raw.githubusercontent.com/bmeidch/ytlok/main/sujo.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_S8TNffRECCdqdrmYlNejw/live
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9h3gApsaOdh65otw4b0UrW3EQPZOUkpnkbFKznsA=s48-c-k-c0x00ffffff-no-rj-mo" ,CoComelon
+https://raw.githubusercontent.com/bmeidch/ytlok/main/CoComelon.m3u8
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTwURnqPZtoUiVz9paF1nQW5m1_JfpIrSOWnMGQ=s88-c-k-c0x00ffffff-no-rj" ,Upin Ipin S15 YT
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/7vTmnla.jpg" ,NICKELODEON YT
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://imgur.com/3XnG3QW.jpg" ,WB Kids YT
@@ -2010,10 +2013,13 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/Re
 #EXTINF:-1 group-title="YT LOKAL" tvg-logo="https://i.ibb.co/Cz0KCSf/tvdesa.png" ,TV DESA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVDesaONTERUS/live
 #EXTINF:-1 group-title="YT LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5f/Musica_Studios.jpg" ,Musica Studios
+https://raw.githubusercontent.com/bmeidch/ytlok/main/musica.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCNlU3oSU8UnJ_V9uMB-cPOg/live
 #EXTINF:-1 group-title="YT LOKAL" tvg-logo="https://NGSYT.etus.link" ,NAGASWARA RADIOTEMEN LIVE POP INDONESIA TERBAIK 2004 - 2022 - nonSTOP
+https://raw.githubusercontent.com/bmeidch/ytlok/main/NAGASWARA.m3u8
 https://gizeme.herokuapp.com/query?id=https://www.youtube.com/watch?v=Is03gZsBeq0
 #EXTINF:-1 group-title="YT LOKAL" tvg-logo="https://AQURL.etus.link" ,Aquarius Musikindo
+https://raw.githubusercontent.com/bmeidch/ytlok/main/AquariusMusikindo.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/AquariusMusikindo/live
 
 ##[#===YT===]
