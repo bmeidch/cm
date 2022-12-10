@@ -609,7 +609,7 @@ https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-id="CNN International Asia Pacific" tvg-name="CNN International Asia Pacific" tvg-logo="https://i.imgur.com/luNCDBQ.jpg" ,CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-logo="https://i.imgur.com/u2jzj5W.png" ,Channel News Asia
-https://raw.githubusercontent.com/bmeidch/ytlok/main/cna.m3u8
+https://raw.githubusercontent.com/bmeidch/ytluar/main/cna.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/channelnewsasia/live
 ##EXTINF:-1 group-title="BERITA" tvg-id="EuroNewsEnglish.fr" tvg-name="Euronews" tvg-logo="https://i.imgur.com/fnZpEXb.png" ,Euronews
 ##EXTINF:-1 group-title="BERITA" tvg-id="EuroNewsEnglish.fr" tvg-name="Euronews" tvg-logo="https://i.imgur.com/JQyGCO3.jpg" ,Euronews UDP
@@ -634,7 +634,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/ch
 #EXTINF:-1 group-title="BERITA" tvg-id="ABC Australia Asia" tvg-name="ABC Australia Asia" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtMuX1.jpg",ABC News Aus
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-id="ABC Australia Asia" tvg-name="ABC Australia Asia" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CwWE3a.jpg",ABC NewsLive
-https://raw.githubusercontent.com/bmeidch/ytlok/main/ABCNews.m3u8
+https://raw.githubusercontent.com/bmeidch/ytluar/main/ABCNews.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ABCNews/live
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CwWnbe.jpg",CBSN
@@ -654,13 +654,13 @@ https://wowzaec2demo.streamlock.net/live/bigbuckbunny/eroz_brebes.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tes" tvg-logo="https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2021/05/27151240/AB_RELOADED_202105_780x800_CharactersAndLogo-1.png" group-title="KIDS", Angry Bird
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=547
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-Pwuqij2lDrpgyFWvvAhxyiYEj5u9XFRutQf-3fw=s88-c-k-c0x00ffffff-no-rj" ,BabyBus
-https://raw.githubusercontent.com/bmeidch/ytlok/main/babybus.m3u8
+https://raw.githubusercontent.com/bmeidch/ytkids/main/babybus.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5v3gjCQLFeg8eBXO7ShdpQ/live
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/h54Q6KfVyaisT_mHs6do41GDgGksdAuiv9e1k5mlF6HTZjMc-z-iDSQDpT0CYG_czDVOeYvrQA=s88-c-k-c0x00ffffff-no-rj" ,Super JOJO
-https://raw.githubusercontent.com/bmeidch/ytlok/main/sujo.m3u8
+https://raw.githubusercontent.com/bmeidch/ytkids/main/sujo.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_S8TNffRECCdqdrmYlNejw/live
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9h3gApsaOdh65otw4b0UrW3EQPZOUkpnkbFKznsA=s48-c-k-c0x00ffffff-no-rj-mo" ,CoComelon
-https://raw.githubusercontent.com/bmeidch/ytlok/main/CoComelon.m3u8
+https://raw.githubusercontent.com/bmeidch/ytkids/main/CoComelon.m3u8
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTwURnqPZtoUiVz9paF1nQW5m1_JfpIrSOWnMGQ=s88-c-k-c0x00ffffff-no-rj" ,Upin Ipin S15 YT
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/7vTmnla.jpg" ,NICKELODEON YT
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://imgur.com/3XnG3QW.jpg" ,WB Kids YT
@@ -1802,6 +1802,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="BernamaTV.my" tvg-name="Bernama TV" tvg-logo="https://i.imgur.com/DM54Dn4.png" ,Bernama
+https://raw.githubusercontent.com/bmeidch/ytluar/main/bernama.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
 #EXTINF:-1 group-title="MALAYSIA" tvg-ID="AstroWarna.my" tvg-logo="https://imgur.com/uEjBXF1.png" ,Astro Warna
 http://23.237.10.66:16424
@@ -2013,10 +2014,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/Re
 #EXTINF:-1 group-title="YT LOKAL" tvg-logo="https://i.ibb.co/Cz0KCSf/tvdesa.png" ,TV DESA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVDesaONTERUS/live
 #EXTINF:-1 group-title="YT LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5f/Musica_Studios.jpg" ,Musica Studios
-https://raw.githubusercontent.com/bmeidch/ytlok/main/musica.m3u8
+https://raw.githubusercontent.com/bmeidch/ytloc/main/musica.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCNlU3oSU8UnJ_V9uMB-cPOg/live
 #EXTINF:-1 group-title="YT LOKAL" tvg-logo="https://NGSYT.etus.link" ,NAGASWARA RADIOTEMEN LIVE POP INDONESIA TERBAIK 2004 - 2022 - nonSTOP
-https://raw.githubusercontent.com/bmeidch/ytlok/main/NAGASWARA.m3u8
+https://raw.githubusercontent.com/bmeidch/ytloc/main/NAGASWARA.m3u8
 https://gizeme.herokuapp.com/query?id=https://www.youtube.com/watch?v=Is03gZsBeq0
 #EXTINF:-1 group-title="YT LOKAL" tvg-logo="https://AQURL.etus.link" ,Aquarius Musikindo
 https://raw.githubusercontent.com/bmeidch/ytlok/main/AquariusMusikindo.m3u8
