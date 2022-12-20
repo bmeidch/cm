@@ -2,85 +2,10 @@
 ##EXTM3U url-tvg="https://cdn.macan.tv/epgtv.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="1440"
 ##EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="3600"
 
-========WORLD CUP=========
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://s.id/TYCSPORTS",TYC SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://edge1.zorrohd4.nl/live/ST560301f1b4d56f4.m3u8
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://www.nowtv.now.com/promo/fifaworldcup2022/images/wc-logo-en.png",NOW TV 4k World CUP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://s.id/fsfox1",FS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#https://webudi.openhd.lol/lb/premium39/index.m3u8
-https://webdi.openhd.lol/lb/premium39/index.m3u8
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-https://webdi.openhd.lol/lb/premium49/index.m3u8
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://imgur.com/U47Qq2X.jpg" ,SPORT TV 1 ᴴᴰ B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://cdn.spmr.tv:8080/d6pvl0/video.m3u8?token=WYPW6GSH4H
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://i.imgur.com/v48ueao.png" ,TSN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-https://webdi.openhd.lol/lb/premium111/index.m3u8
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://s.id/1pI5K",MBC
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/Astro_2016_logo.svg.png", Astro WORLD CUP LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-https://webdi.openhd.lol/ddyx2/premium294/index.m3u8
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/Astro_2016_logo.svg.png", Astro WORLD CUP REPLAY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-https://webdi.openhd.lol/ddyx2/premium295/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/bSM-3.jpg" group-title="WORLD CUP",BeinSports Max 3 EN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-https://webdi.openhd.lol/lb/premium298/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/bSM-1.jpg" group-title="WORLD CUP",BeinSports Max 1 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-https://webdi.openhd.lol/lb/premium296/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/bSM-2.jpg" group-title="WORLD CUP",BeinSports Max 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-https://webudi.openhd.lol/lb/premium297/index.m3u8
-https://webudi.openhd.lol/lb/premium297/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/bSM-4.jpg" group-title="WORLD CUP",BeinSports Max 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-https://webdi.openhd.lol/ddyx2/premium299/index.m3u8
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/small_pic675.jpg",TRT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-https://webdi.openhd.lol/lb/premium2/index.m3u8
-
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/small_pic507.jpg",M4 Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-https://webdi.openhd.lol/lb/premium5/index.m3u8
-
 ####[#===INDONESIA===]
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/mIOpbah.jpg" ,Indosiar
 ##EXTVLCOPT:http-user-agent=android-12
-#http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.imgur.com/EYL6HM2.jpg" ,SCTV
@@ -144,10 +69,6 @@ https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="antv" tvg-name="ANTV" tvg-logo="https://s.id/Um6b" ,ANTV
-https://stream-03.sg1.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfIDC-K7vS0c0-fa7Aaedg-tBUh1T8hvBMzvaQPdUAnrd)/dm/3/x8chy4s/s/live-4.m3u8
-#https://giveme.vercel.app/api/dm?id=x8chy4s?autoplay=1
-https://giveme.vercel.app/api/dm?id=x6zvnex
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8chy4s
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/7p4khR7/ponttv.png" ,PON TV
@@ -189,16 +110,12 @@ http://iamchannel.org:1935/tes/1/chunklist.m3u8
 //\\===#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/vPV1cLf/hiduptv.png" ,HIDUP TV
 //\\===http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-id="KompasTv" tvg-name="KompasTv" tvg-logo="https://i.imgur.com/1KEE3Tu.jpg" ,Kompas TV
-https://giveme.vercel.app/api/dm?id=kD9l8sWXqRfBh0rvk82
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/kD9l8sWXqRfBh0rvk82
-http://iptvid.my.id/hmm/kompastv.m3u8 
+#https://giveme.vercel.app/api/dm?id=kD9l8sWXqRfBh0rvk82
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="https://i.imgur.com/6Q19wx5.jpg" ,Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w846993376_b1492000_sleng.m3u8
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MetrotvnewsOfficial/live
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/k236ofBIxajxDiti8CY
 https://giveme.vercel.app/api/dm?id=k236ofBIxajxDiti8CY
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="TVOne" tvg-name="TVOne" tvg-logo="https://s.id/-Um6k" ,TV ONE
@@ -211,14 +128,15 @@ https://raw.githubusercontent.com/bmeidch/ytlok/main/tvone.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 https://av-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-
 #EXTINF:-1 group-title="LOKAL" tvg-id="TVRIWorld.id" tvg-name="TVRI World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/TVRI_World_Logo_2021_Variant.png",TVRI World
 http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-id="RTV" tvg-name="RTV" tvg-logo="https://i.imgur.com/r7crOxm.jpg" ,RTV
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/metro-globe-network-id.png" ,METRO GLOBE NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/master.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-id="NusantaraTV.id" tvg-name="Nusantara" tvg-logo="https://i.imgur.com/GhO3Jjn.jpg" ,Nusantara TV HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7432-nusantara-tv
 #EXTINF:-1 group-title="LOKAL" tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://s.id/Um7u" ,MENTARI TV
+
 #EXTINF:-1 group-title="LOKAL" group-title="BERITA" tvg-id="BeritaSatu" tvg-name="Berita Satu" tvg-logo="https://i.imgur.com/W5D7VIc.jpg" ,BERITA SATU NEWS
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 group-title="LOKAL" group-title="BERITA" tvg-logo="https://i.ibb.co/ww8q4xr/bsw.jpg" ,BERITA SATU WORLD
@@ -663,6 +581,8 @@ https://raw.githubusercontent.com/bmeidch/ytkids/main/sujo.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_S8TNffRECCdqdrmYlNejw/live
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9h3gApsaOdh65otw4b0UrW3EQPZOUkpnkbFKznsA=s48-c-k-c0x00ffffff-no-rj-mo" ,CoComelon
 https://raw.githubusercontent.com/bmeidch/ytkids/main/CoComelon.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.miraheze.org/avidwiki/thumb/3/38/Pinkfong_%282016%29_%28From_-_Baby_Shark_Dance%29.png/300px-Pinkfong_%282016%29_%28From_-_Baby_Shark_Dance%29.png" ,Pinkfong
+https://raw.githubusercontent.com/bmeidch/ytkids/main/Pinkfong.m3u8
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTwURnqPZtoUiVz9paF1nQW5m1_JfpIrSOWnMGQ=s88-c-k-c0x00ffffff-no-rj" ,Upin Ipin S15 YT
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/7vTmnla.jpg" ,NICKELODEON YT
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://imgur.com/3XnG3QW.jpg" ,WB Kids YT
@@ -1255,46 +1175,17 @@ https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjY
 #EXTINF:-1 group-title="SPORTS" tvg-id="DDSports.in" tvg-name="IN: DD SPORTS" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoLvMIS0nFoR48DD3wgSPzuZ4hrdhtuBABtKaapB8CoEGyggpA3a3PcO9vRIbxTWI1w.png" ,DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 ##EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png", Star Sport 3
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN: SONY TEN 1 HD" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoMgTvjNitpTNlEjXkzOS8RtYU7QakFU7jRqI0JpNHnDrv1xMC2T84j1a6Xv4ADG7-g.png" group-title="SPORTS",IN: SONY TEN 1 HD
-http://env-6150628.in1.bitmana.io/ROOT-451/autoq.php?c=Ten_HD&q=600&e=.m3u8
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="IN: SONY TEN 2 HD" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoKcRb-fdt9nP5o8hdSEGKLdpU2mJcWx4C9nDI8PgxDLrKMvJU4d7erU0__c7WF3YQA.png" group-title="SPORTS",IN: SONY TEN 2 HD
-http://env-6150628.in1.bitmana.io/ROOT-451/autoq.php?c=Ten2_HD&q=600&e=.m3u8
+##EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN: SONY TEN 1 HD" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoMgTvjNitpTNlEjXkzOS8RtYU7QakFU7jRqI0JpNHnDrv1xMC2T84j1a6Xv4ADG7-g.png" group-title="SPORTS",IN: SONY TEN 1 HD
+##EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="IN: SONY TEN 2 HD" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoKcRb-fdt9nP5o8hdSEGKLdpU2mJcWx4C9nDI8PgxDLrKMvJU4d7erU0__c7WF3YQA.png" group-title="SPORTS",IN: SONY TEN 2 HD
+
 #EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="IN: SONY TEN 3 HD" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoA-qh7geWmGYVvpINuIlC521svRRKblf3o_R78MX_ictAiGnjVDLSKk8HQoIY7O9sQ.png" group-title="SPORTS",IN: SONY TEN 3 HD
 http://env-6150628.in1.bitmana.io/ROOT-451/autoq.php?c=Ten3_HD&q=600&e=.m3u8
 ##EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="IN: SONY TEN 3 HD" tvg-logo="https://iconape.com/wp-content/png_logo_vector/ten-sports-logo.png" group-title="SPORTS",IN: TEN SPORTS
 http://208.86.19.13:81/711.stream/index.m3u8
-#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="IN: SONY TEN 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Sony_Ten_4_HD.png" group-title="SPORTS",IN: SONY TEN 4 HD
-http://env-6150628.in1.bitmana.io/live.php?c=Ten_4_Tamil&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN: SONY SIX HD" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPJlWILsPqsX7dsPdIFy8Y0Blc4-M4eKUhqykfldEXZ9T-x5R2OeDYmw_HubvyVuwQ.png" group-title="SPORTS",IN: SONY SIX HD
-http://env-6150628.in1.bitmana.io/ROOT-451/autoq.php?c=Six_HD&q=600&e=.m3u8
-TINF:-1 tvg-id="889" group-title="SPORTS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png",Jio Sports HD
-http://env-6150628.in1.bitmana.io/ROOT-451/autoq.php?c=Jio_Sports&q=600&e=.m3u8
+##EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="IN: SONY TEN 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Sony_Ten_4_HD.png" group-title="SPORTS",IN: SONY TEN 4 HD
 
-#EXTINF:-1 tvg-id="875" group-title="SPORTS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",Eurosport HD
-http://env-6150628.in1.bitmana.io/ROOT-451/autoq.php?c=Dsports_HD&q=600&e=.m3u8
+##EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN: SONY SIX HD" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPJlWILsPqsX7dsPdIFy8Y0Blc4-M4eKUhqykfldEXZ9T-x5R2OeDYmw_HubvyVuwQ.png" group-title="SPORTS",IN: SONY SIX HD
 
-#EXTINF:-1 tvg-id="1156" group-title="SPORTS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png",Jio Football HD
-http://env-6150628.in1.bitmana.io/ROOT-451/autoq.php?c=Jio_Football&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="1165" group-title="SPORTS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png",Jio Football 1 HD
-http://env-6150628.in1.bitmana.io/ROOT-451/autoq.php?c=Jio_Football_1&q=600&e=.m3u8
-#EXTINF:-1 tvg-id="1167" group-title="SPORTS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png",Jio Football 2 HD
-http://env-6150628.in1.bitmana.io/ROOT-451/autoq.php?c=Jio_Football_2&q=600&e=.m3u8
-#EXTINF:-1 tvg-id="1168" group-title="SPORTS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png",Jio Football 3 HD
-http://env-6150628.in1.bitmana.io/ROOT-451/autoq.php?c=Jio_Football_3&q=600&e=.m3u8
-#EXTINF:-1 tvg-id="1169" group-title="SPORTS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_4.png",Jio Football 4 HD
-http://env-6150628.in1.bitmana.io/ROOT-451/autoq.php?c=Jio_Football_4&q=600&e=.m3u8
-#EXTINF:-1 tvg-id="1169" group-title="SPORTS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_5.png",Jio Football 5 HD
-http://env-6150628.in1.bitmana.io/ROOT-451/autoq.php?c=Jio_Football_5&q=600&e=.m3u8
-#EXTINF:-1 tvg-id="1169" group-title="SPORTS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_6.png",Jio Football 6 HD
-http://env-6150628.in1.bitmana.io/ROOT-451/autoq.php?c=Jio_Football_6&q=600&e=.m3u8
-#EXTINF:-1 tvg-id="1169" group-title="SPORTS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_7.png",Jio Football 7 HD
-http://env-6150628.in1.bitmana.io/ROOT-451/autoq.php?c=Jio_Football_7&q=600&e=.m3u8
-#EXTINF:-1 tvg-id="1169" group-title="SPORTS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_8.png",Jio Football 8 HD
-http://env-6150628.in1.bitmana.io/ROOT-451/autoq.php?c=Jio_Football_8&q=600&e=.m3u8
-#EXTINF:-1 tvg-id="1169" group-title="SPORTS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png",1SPORTS
-http://env-6150628.in1.bitmana.io/ROOT-451/autoq.php?c=1Sports&q=600&e=.m3u8
 
 ##[#===EXTREME SPORTS]
 ##EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://www.extreme.com/en/wp-content/themes/Extreme%20Sports/assets/images/logo.png", Extreme Sport
