@@ -118,7 +118,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w846993376_b1492000_sleng.m3u8
 https://giveme.vercel.app/api/dm?id=k236ofBIxajxDiti8CY
 
-#EXTINF:-1 group-title="LOKAL" tvg-id="TVOne" tvg-name="TVOne" tvg-logo="https://s.id/-Um6k" ,TV ONE
+#EXTINF:-1 group-title="LOKAL" tvg-id="TVOne" tvg-name="TVOne" tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/tvoneid.png" ,TV ONE
 #https://giveme.vercel.app/api/dm?id=k2uDgtBgdyXR1AoH4XD
 https://raw.githubusercontent.com/bmeidch/ytlok/main/tvone.m3u8
 
