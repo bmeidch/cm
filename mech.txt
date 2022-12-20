@@ -63,12 +63,12 @@ https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="LOKAL" tvg-id="NetTV" tvg-name="NetTV" tvg-logo="https://s.id/netvp" ,Net.
+#EXTINF:-1 group-title="LOKAL" tvg-id="NetTV" tvg-name="NetTV" tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/nettvid.jpg" ,Net.
 #EXTVLCOPT:network-caching=2000
 #http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:-1 group-title="LOKAL" tvg-id="antv" tvg-name="ANTV" tvg-logo="https://s.id/-Um6b" ,ANTV
+#EXTINF:-1 group-title="LOKAL" tvg-id="antv" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/antvid.png" ,ANTV
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/7p4khR7/ponttv.png" ,PON TV
@@ -581,7 +581,7 @@ https://raw.githubusercontent.com/bmeidch/ytkids/main/sujo.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_S8TNffRECCdqdrmYlNejw/live
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9h3gApsaOdh65otw4b0UrW3EQPZOUkpnkbFKznsA=s48-c-k-c0x00ffffff-no-rj-mo" ,CoComelon
 https://raw.githubusercontent.com/bmeidch/ytkids/main/CoComelon.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.miraheze.org/avidwiki/thumb/3/38/Pinkfong_%282016%29_%28From_-_Baby_Shark_Dance%29.png/300px-Pinkfong_%282016%29_%28From_-_Baby_Shark_Dance%29.png" ,Pinkfong
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/bmeidch/cm/main/chlogo/Pinkfong.png" ,Pinkfong
 https://raw.githubusercontent.com/bmeidch/ytkids/main/Pinkfong.m3u8
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTwURnqPZtoUiVz9paF1nQW5m1_JfpIrSOWnMGQ=s88-c-k-c0x00ffffff-no-rj" ,Upin Ipin S15 YT
 ##EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/7vTmnla.jpg" ,NICKELODEON YT
