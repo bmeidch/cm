@@ -1,5 +1,5 @@
-#EXTM3U x-tvg-url="https://cdn.macan.tv/epgtv.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="1440"
-##EXTM3U url-tvg="https://cdn.macan.tv/epgtv.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="1440"
+#EXTM3U x-tvg-url="https://cdn.macan.tv/epgtv.xml, https://iptv-org.github.io/epg/guides/id.xml, https://iptv-org.github.io/epg/guides/my.xml, https://iptv-org.github.io/epg/guides/pt.xml, https://iptv-org.github.io/epg/guides/sg.xml" refresh="1440"
+##EXTM3U url-tvg="https://cdn.macan.tv/epgtv.xml, https://iptv-org.github.io/epg/guides/id.xml, https://iptv-org.github.io/epg/guides/my.xml, https://iptv-org.github.io/epg/guides/pt.xml, https://iptv-org.github.io/epg/guides/sg.xml" refresh="1440"
 ##EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="3600"
 
 ####[#===INDONESIA===]
@@ -109,7 +109,13 @@ http://iamchannel.org:1935/tes/1/chunklist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-id="Reformed21.id" tvg-name="Reformed 21 TV" tvg-logo="https://i.ibb.co/X2Q56SR/r21.png" ,Reformed 21
 //\\===#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/vPV1cLf/hiduptv.png" ,HIDUP TV
 //\\===http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+###EXTINF:-1 group-title="VISION +" tvg-id="KompasTv" tvg-name="KompasTv" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" ,Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 group-title="LOKAL" tvg-id="KompasTv" tvg-name="KompasTv" tvg-logo="https://i.imgur.com/1KEE3Tu.jpg" ,Kompas TV
+https://av-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #https://giveme.vercel.app/api/dm?id=kD9l8sWXqRfBh0rvk82
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 
