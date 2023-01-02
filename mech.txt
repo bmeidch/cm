@@ -6,11 +6,11 @@
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/mIOpbah.jpg" ,Indosiar
 ##EXTVLCOPT:http-user-agent=android-12
-https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.imgur.com/EYL6HM2.jpg" ,SCTV
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
-https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606f050f137c26cc67bb
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -140,9 +140,10 @@ http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/metro-globe-network-id.png" ,METRO GLOBE NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/master.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-id="NusantaraTV.id" tvg-name="Nusantara" tvg-logo="https://i.imgur.com/GhO3Jjn.jpg" ,Nusantara TV HD
+https://ilike.squdinc.workers.dev/play.m3u8?id=7432&key=vidio&type=hls?WithCaption
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/7432-nusantara-tv
 #EXTINF:-1 group-title="LOKAL" tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://s.id/Um7u" ,MENTARI TV
-
+https://ilike.squdinc.workers.dev/play.m3u8?id=8237&key=vidio&type=hls?WithCaption
 #EXTINF:-1 group-title="LOKAL" group-title="BERITA" tvg-id="BeritaSatu" tvg-name="Berita Satu" tvg-logo="https://i.imgur.com/W5D7VIc.jpg" ,BERITA SATU NEWS
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 group-title="LOKAL" group-title="BERITA" tvg-logo="https://i.ibb.co/ww8q4xr/bsw.jpg" ,BERITA SATU WORLD
