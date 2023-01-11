@@ -115,6 +115,7 @@ http://iamchannel.org:1935/tes/1/chunklist.m3u8
 ###EXTINF:-1 group-title="VISION +" tvg-id="KompasTv" tvg-name="KompasTv" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" ,Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 group-title="LOKAL" tvg-id="KompasTv" tvg-name="KompasTv" tvg-logo="https://i.imgur.com/1KEE3Tu.jpg" ,Kompas TV
+https://raw.githubusercontent.com/bmeidch/ytlok/main/kompastv.m3u8
 https://av-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #https://giveme.vercel.app/api/dm?id=kD9l8sWXqRfBh0rvk82
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
@@ -1739,14 +1740,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=
 ##EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 group-title="MALAYSIA" ch-number="RTMK02" tvg-id="TV2.my" tvg-chno="RTMK02" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV2.jpg",TV2
 #EXTGRP:MALAYSIA
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/54175
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 ##EXTVLCOPT:http-referer=https://www.dailymotion.com
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
 #EXTINF:-1 group-title="MALAYSIA" ch-number="103" tvg-id="TV3.my" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/158360
 https://aqfadtv.xyz/live/tv3/index.mpd
 http://51.79.82.208:16003
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/40761.m3u8
@@ -1776,6 +1777,7 @@ http://23.237.10.66:16424
 #EXTINF:-1 group-title="MALAYSIA" tvg-ID="AstroPrima.my" tvg-logo="https://imgur.com/33oFoRl.png" ,Astro Prima
 http://51.79.82.208:16008
 #EXTINF:-1 group-title="MALAYSIA" tvg-ID="AstroCeria.my" tvg-logo="https://imgur.com/MHBaRi1.png" ,Astro Ceria
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157481
 https://linearjitp-playback.astro.com.my:443/dash-wv/linear/2606/default_primary.mpd
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroRia.my" tvg-logo="https://imgur.com/ViWLOxe.png" ,Astro Ria
 http://51.79.82.208:16007
@@ -1968,6 +1970,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 https://raw.githubusercontent.com/bmeidch/ytlok/main/kompastv.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/kompastv/live
 https://giveme.vercel.app/api/dm?id=kD9l8sWXqRfBh0rvk82
+#EXTINF:-1 group-title="YT LOKAL" tvg-id="KompasTv" tvg-name="KompasTv" tvg-logo="https://imgur.com/pwtBC66.png" ,Kompas TV LIVE REPORT
+https://raw.githubusercontent.com/bmeidch/ytlok/main/kompastvlr.m3u8
 #EXTINF:-1 group-title="YT LOKAL" tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="https://i.imgur.com/6Q19wx5.jpg" ,METRO TV
 https://raw.githubusercontent.com/bmeidch/ytlok/main/metrotv.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MetrotvnewsOfficial/live
